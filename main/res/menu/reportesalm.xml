@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/op2_diario"
+    android:title="Reporte Diario"/>
+  <item android:id="@+id/op2_mensual"
+    android:title="Reporte Mensual"/>
+  <item android:id="@+id/op2_anual"
+    android:title="Reporte Anual"/>
+</menu>
